@@ -1,8 +1,8 @@
 # Hello! Welcome to my Github homepage 👋
 
-## ABOUT ME
-I am YAN Dongxin, pronounced as 'ien donshin' in Japanese. My Bachelor's degree is linguistics. Driven by a passion for language, culture, and society, I transitioned to computational social science, where I am studying for a Master's Degree at Tohoku University in Sendai.
-
+## ABOUT ME 🔭
+I am YAN Dongxin, pronounced as 'ien donshin' in Japanese. <br>
+After graduating with a bachelor's degree in linguistics, I worked for some years. Curious about language, culture, and society in the digital age, I returned to school and am currently studying computational social science as a master course student.
 <!--
 **IenDonshin/IenDonshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
