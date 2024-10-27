@@ -1,8 +1,13 @@
-# Hello! Welcome to my Github homepage 👋
+<div align="center">
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey&size=20&pause=1000&color=8A2BE2&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)
+</div>
 
-## ABOUT ME 🔭
-I am YAN Dongxin, pronounced as 'ien donshin' in Japanese. <br>
-After graduating with a bachelor's degree in linguistics, I worked for some years. Curious about language, culture, and society in the digital age, I returned to school and am currently studying computational social science as a master course student.
+# ABOUT ME 🔭
+I am YAN Dongxin, pronounced as 'ien donshin' in Japanese. 
+I come from a county on the North China Plain, where there are endless fields, white wind turbines, and towering residential complexes.
+# ABOUT MAJOR 🌱
+After graduating with a bachelor's degree in linguistics, I worked for some years. 
+Curious about language, culture, and society in the digital age, I returned to school and am currently studying computational social science as a master course student.
 <!--
 **IenDonshin/IenDonshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
