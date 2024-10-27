@@ -1,5 +1,7 @@
 <div align="center">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey&size=20&pause=1000&color=8A2BE2&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)
+    
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey&size=20&pause=1000&color=8A2BE2&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+Welcome+to+my+GitHub.)](https://git.io/typing-svg)
+
 </div>
 
 # ABOUT ME 🔭
