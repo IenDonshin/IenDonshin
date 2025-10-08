@@ -9,7 +9,7 @@ I am YAN Dongxin, pronounced as 'ien donshin' in Japanese.
 I come from a county on the North China Plain, where there are endless fields, white wind turbines, and towering residential complexes.
 # ABOUT MAJOR 🌱
 After graduating with a bachelor's degree in linguistics, I worked for some years. 
-Curious about language, culture, and society in the digital age, I returned to school and am currently studying computational social science as a master course student.
+A curiosity for language, culture, and society in the digital age led me to pursue a master's degree in Computational Social Science.
 <!--
 **IenDonshin/IenDonshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
